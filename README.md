@@ -60,7 +60,7 @@ A Frontend Oriented Full-Stack Software Engineer with extensive experience in bo
 
 ### Education
 
-**Bahria University (2021 - 2024 expected)**  
+**Bahria University (2021 - 2025 expected)**  
 - Bachelors of Computer Engineering
 
 ---
