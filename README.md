@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--## Muhammad Sharjeel Baig - Full-Stack Software Engineer-->
+## Muhammad Sharjeel Baig - Full-Stack Software Engineer
 
 
-![Muhammad Sharjeel Baig(1)](https://github.com/Sharjeelbaig/sharjeelbaig/assets/29815204/9b7a6e3c-f840-449d-822e-9ab5849f2fba)
+<!--![Muhammad Sharjeel Baig(1)](https://github.com/Sharjeelbaig/sharjeelbaig/assets/29815204/9b7a6e3c-f840-449d-822e-9ab5849f2fba)-->
 
 ---
 
